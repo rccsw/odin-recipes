@@ -1,0 +1,1 @@
+This is my first project following The Odin Project. There was a few lessons followed on FreeCodeCamp, but decided to try this instead. I've installed Ubuntu as dual boot option with Windows 11. I'm hope to retain the desire to complete the Odin Project.
